@@ -1,6 +1,8 @@
 {
     "name": "lamnv/thefirst",
-    "type": "composer-plugin",
+    "description": "first package",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "lamnv",
@@ -8,5 +10,12 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+      "php": ">=5.5.9"  
+    },
+    "autoload" : {
+        "psr-4": {
+            "Devpa\\TheFrist\\": "src/"
+        }
+    }
 }
