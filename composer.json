@@ -1,9 +1,8 @@
 {
     "name": "lamnv/thefirst",
-    "description": "first package",
+    "description": "The first package",
     "type": "library",
-    "license": "MIT",
-    "version": "1.0",
+    "license": "GPL",
     "authors": [
         {
             "name": "lamnv",
@@ -11,15 +10,5 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "php": ">=5.5.9"
-    },
-    "require-dev": {
-        "laravel/framework": "~5.1"
-    },
-    "autoload": {
-        "psr-4": {
-            "Devpa\\TheFrist\\": "src/"
-        }
-    }
+    "require": {}
 }
