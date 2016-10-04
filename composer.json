@@ -1,0 +1,14 @@
+{
+    "name": "lamnv/thefirst",
+    "type": "composer-plugin",
+    "require": {
+        "php": "5.6"
+    },
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "lamnv",
+            "email": "lamnv@rikkeisoft.com"
+        }
+    ]
+}
