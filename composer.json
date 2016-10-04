@@ -3,6 +3,7 @@
     "description": "first package",
     "type": "library",
     "license": "MIT",
+    "version": "1.0",
     "authors": [
         {
             "name": "lamnv",
